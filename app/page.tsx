@@ -6,7 +6,7 @@ export default function Home() {
           Welcome
         </p>
         <h1 className="text-balance text-5xl font-bold tracking-tight text-foreground sm:text-6xl">
-          Hello from v0
+          שלום אהד! זה השינוי הראשון שלי ב‑Cursor 🎉
         </h1>
         <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
           A minimal Next.js project with App Router, Tailwind CSS, and
