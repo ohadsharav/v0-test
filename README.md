@@ -1,1 +1,1 @@
-inittial deploy
+initial deploy
