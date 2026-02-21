@@ -19,7 +19,7 @@ export default function Header() {
             </li>
             <li>
               <Link
-                href="#about"
+                href="/about"
                 className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
               >
                 About
@@ -27,7 +27,7 @@ export default function Header() {
             </li>
             <li>
               <Link
-                href="#contact"
+                href="/contact"
                 className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
               >
                 Contact
